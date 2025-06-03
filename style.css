@@ -140,6 +140,7 @@ span{
 }
 
 .about-text h1{
+  margin-top: 0px; 
   font-size: 62px;
   line-height: 1.2;
 }
